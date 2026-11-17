@@ -1,0 +1,6 @@
+{
+  "name": "Charter Wallet",
+  "description": "A non-custodial digital wallet that gives back financial control and enables instant, affordable worldwide fiat and crypto payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
